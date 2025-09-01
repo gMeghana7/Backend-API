@@ -14,13 +14,7 @@ app.use(express.json());
 app.get('/', (req, res) => {
   res.status(200).json({
     message: "HI there STUDENT NAME G Meghana",
-    project: "Backend Module PROJECT",
-    github: "https://github.com/gMeghana7/Backend-API",
-    deployed: "https://backend-api-pearl-xi.vercel.app/",
-    projecttwo:  "React module PROJECT ",
-    reactGITHUB:   "https://github.com/gMeghana7/Notes-App",
- DEPLOYED: "https://pocket-notes-nu-lilac.vercel.app/"
-
+    
 
   });
 });
