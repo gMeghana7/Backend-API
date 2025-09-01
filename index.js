@@ -17,9 +17,9 @@ app.get('/', (req, res) => {
     project: "Backend Module PROJECT",
     github: "https://github.com/gMeghana7/Backend-API",
     deployed: "https://backend-api-pearl-xi.vercel.app/",
-    project:  "React module PROJECT ",
+    projecttwo:  "React module PROJECT ",
     reactGITHUB:   "https://github.com/gMeghana7/Notes-App",
- DEPLOYED: "https://notes-app-tan-eta.vercel.app/"
+ DEPLOYED: "https://pocket-notes-nu-lilac.vercel.app/"
 
 
   });
